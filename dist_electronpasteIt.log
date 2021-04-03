@@ -1,0 +1,528 @@
+[2020-11-05 23:54:34.154] [info] 1
+[2020-11-05 23:54:34.163] [info] avant init db
+[2020-11-05 23:54:34.165] [info] après init db
+[2020-11-05 23:54:34.166] [info] 2
+[2020-11-05 23:54:34.271] [info] 3
+[2020-11-05 23:54:34.273] [info] 4
+[2020-11-05 23:54:34.275] [info] clipboardWatcher init
+[2020-11-05 23:55:20.449] [info] 1
+[2020-11-05 23:55:20.459] [info] avant init db
+[2020-11-05 23:55:20.463] [info] après init db
+[2020-11-05 23:55:20.464] [info] 2
+[2020-11-05 23:55:20.540] [info] 3
+[2020-11-05 23:55:20.542] [info] 4
+[2020-11-05 23:55:20.546] [info] clipboardWatcher init
+[2020-11-05 23:56:50.019] [info] 1
+[2020-11-05 23:56:50.031] [info] avant init db
+[2020-11-05 23:56:50.034] [info] après init db
+[2020-11-05 23:56:50.035] [info] 2
+[2020-11-05 23:56:50.094] [info] 3
+[2020-11-05 23:56:50.096] [info] 4
+[2020-11-05 23:56:50.098] [info] clipboardWatcher init
+[2020-11-05 23:56:50.118] [info] clipboardWatcher 2
+[2020-11-05 23:56:50.128] [info] 5
+[2020-11-05 23:56:50.132] [info] 6
+[2020-11-06 20:52:56.111] [info] 1
+[2020-11-06 20:52:56.144] [info] avant init db
+[2020-11-06 20:52:56.155] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-06 20:52:56.162] [info] homedir is C:\Users\thomas
+[2020-11-06 20:52:56.171] [info] après init db
+[2020-11-06 20:52:56.173] [info] 2
+[2020-11-06 20:52:56.289] [info] 3
+[2020-11-06 20:52:56.290] [info] 4
+[2020-11-06 20:52:56.292] [info] clipboardWatcher init
+[2020-11-06 20:52:56.317] [info] clipboardWatcher 2
+[2020-11-06 20:52:56.329] [info] 5
+[2020-11-06 20:52:56.339] [info] 6
+[2020-11-06 21:14:56.949] [info] 1
+[2020-11-06 21:14:56.963] [info] avant init db
+[2020-11-06 21:14:56.965] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-06 21:14:56.966] [info] homedir is C:\Users\thomas
+[2020-11-06 21:14:56.968] [info] après init db
+[2020-11-06 21:14:56.970] [info] 2
+[2020-11-06 21:14:57.032] [info] 3
+[2020-11-06 21:14:57.034] [info] 4
+[2020-11-06 21:14:57.035] [info] clipboardWatcher init
+[2020-11-06 21:14:57.053] [info] clipboardWatcher 2
+[2020-11-06 21:14:57.055] [info] 5
+[2020-11-06 21:14:57.058] [info] 6
+[2020-11-06 21:36:47.510] [info] 1
+[2020-11-06 21:36:47.519] [info] avant init db
+[2020-11-06 21:36:47.521] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-06 21:36:47.522] [info] homedir is C:\Users\thomas
+[2020-11-06 21:36:47.523] [info] après init db
+[2020-11-06 21:36:47.525] [info] 2
+[2020-11-06 21:36:47.587] [info] 3
+[2020-11-06 21:36:47.594] [info] 4
+[2020-11-06 21:36:47.596] [info] clipboardWatcher init
+[2020-11-06 21:36:47.616] [info] clipboardWatcher 2
+[2020-11-06 21:36:47.622] [info] 5
+[2020-11-06 21:36:47.626] [info] 6
+[2020-11-06 21:37:01.792] [info] 1
+[2020-11-06 21:37:01.804] [info] avant init db
+[2020-11-06 21:37:01.805] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-06 21:37:01.806] [info] homedir is C:\Users\thomas
+[2020-11-06 21:37:01.807] [info] après init db
+[2020-11-06 21:37:01.808] [info] 2
+[2020-11-06 21:37:01.876] [info] 3
+[2020-11-06 21:37:01.877] [info] 4
+[2020-11-06 21:37:01.879] [info] clipboardWatcher init
+[2020-11-06 21:37:01.896] [info] clipboardWatcher 2
+[2020-11-06 21:37:01.899] [info] 5
+[2020-11-06 21:37:01.902] [info] 6
+[2020-11-06 23:03:13.872] [info] 1
+[2020-11-06 23:03:13.883] [info] avant init db
+[2020-11-06 23:03:13.884] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-06 23:03:13.886] [info] homedir is C:\Users\thomas
+[2020-11-06 23:03:13.888] [info] après init db
+[2020-11-06 23:03:13.889] [info] 2
+[2020-11-06 23:03:13.966] [info] 3
+[2020-11-06 23:03:13.969] [info] 4
+[2020-11-06 23:03:13.972] [info] clipboardWatcher init
+[2020-11-06 23:03:13.994] [info] clipboardWatcher 2
+[2020-11-06 23:03:13.996] [info] 5
+[2020-11-06 23:03:13.999] [info] 6
+[2020-11-06 23:03:34.536] [info] 1
+[2020-11-06 23:03:34.550] [info] avant init db
+[2020-11-06 23:03:34.551] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-06 23:03:34.552] [info] homedir is C:\Users\thomas
+[2020-11-06 23:03:34.555] [info] après init db
+[2020-11-06 23:03:34.556] [info] 2
+[2020-11-06 23:03:34.629] [info] 3
+[2020-11-06 23:03:34.630] [info] 4
+[2020-11-06 23:03:34.632] [info] clipboardWatcher init
+[2020-11-06 23:03:34.653] [info] clipboardWatcher 2
+[2020-11-06 23:03:34.656] [info] 5
+[2020-11-06 23:03:34.660] [info] 6
+[2020-11-06 23:04:23.884] [info] 1
+[2020-11-06 23:04:23.898] [info] avant init db
+[2020-11-06 23:04:23.906] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-06 23:04:23.908] [info] homedir is C:\Users\thomas
+[2020-11-06 23:04:23.911] [info] après init db
+[2020-11-06 23:04:23.913] [info] 2
+[2020-11-06 23:04:23.998] [info] 3
+[2020-11-06 23:04:24.001] [info] 4
+[2020-11-06 23:04:24.003] [info] clipboardWatcher init
+[2020-11-06 23:04:24.030] [info] clipboardWatcher 2
+[2020-11-06 23:04:24.033] [info] 5
+[2020-11-06 23:04:24.050] [info] 6
+[2020-11-07 01:08:53.085] [info] 1
+[2020-11-07 01:08:53.097] [info] avant init db
+[2020-11-07 01:08:53.099] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 01:08:53.100] [info] homedir is C:\Users\thomas
+[2020-11-07 01:08:53.102] [info] après init db
+[2020-11-07 01:08:53.103] [info] 2
+[2020-11-07 01:08:53.178] [info] 3
+[2020-11-07 01:08:53.180] [info] 4
+[2020-11-07 01:08:53.182] [info] clipboardWatcher init
+[2020-11-07 01:08:53.210] [info] clipboardWatcher 2
+[2020-11-07 01:08:53.213] [info] 5
+[2020-11-07 01:08:53.216] [info] 6
+[2020-11-07 01:09:27.456] [info] 1
+[2020-11-07 01:09:27.466] [info] avant init db
+[2020-11-07 01:09:27.468] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 01:09:27.469] [info] homedir is C:\Users\thomas
+[2020-11-07 01:09:27.470] [info] après init db
+[2020-11-07 01:09:27.471] [info] 2
+[2020-11-07 01:09:27.544] [info] 3
+[2020-11-07 01:09:27.545] [info] 4
+[2020-11-07 01:09:27.546] [info] clipboardWatcher init
+[2020-11-07 01:09:27.565] [info] clipboardWatcher 2
+[2020-11-07 01:09:27.569] [info] 5
+[2020-11-07 01:09:27.572] [info] 6
+[2020-11-07 19:03:15.500] [info] 1
+[2020-11-07 19:03:15.522] [info] avant init db
+[2020-11-07 19:03:15.524] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 19:03:15.526] [info] homedir is C:\Users\thomas
+[2020-11-07 19:03:15.531] [info] après init db
+[2020-11-07 19:03:15.533] [info] 2
+[2020-11-07 19:03:15.684] [info] 3
+[2020-11-07 19:03:15.686] [info] 4
+[2020-11-07 19:03:15.691] [info] clipboardWatcher init
+[2020-11-07 19:03:15.712] [info] clipboardWatcher 2
+[2020-11-07 19:03:15.714] [info] 5
+[2020-11-07 19:03:15.719] [info] 6
+[2020-11-07 19:03:38.246] [info] 1
+[2020-11-07 19:03:38.255] [info] avant init db
+[2020-11-07 19:03:38.257] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 19:03:38.258] [info] homedir is C:\Users\thomas
+[2020-11-07 19:03:38.259] [info] après init db
+[2020-11-07 19:03:38.260] [info] 2
+[2020-11-07 19:03:38.335] [info] 3
+[2020-11-07 19:03:38.337] [info] 4
+[2020-11-07 19:03:38.338] [info] clipboardWatcher init
+[2020-11-07 19:03:38.358] [info] clipboardWatcher 2
+[2020-11-07 19:03:38.360] [info] 5
+[2020-11-07 19:03:38.364] [info] 6
+[2020-11-07 19:05:47.364] [info] 1
+[2020-11-07 19:05:47.377] [info] avant init db
+[2020-11-07 19:05:47.379] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 19:05:47.381] [info] homedir is C:\Users\thomas
+[2020-11-07 19:05:47.383] [info] après init db
+[2020-11-07 19:05:47.385] [info] 2
+[2020-11-07 19:05:47.460] [info] 3
+[2020-11-07 19:05:47.462] [info] 4
+[2020-11-07 19:05:47.464] [info] clipboardWatcher init
+[2020-11-07 19:05:47.485] [info] clipboardWatcher 2
+[2020-11-07 19:05:47.496] [info] 5
+[2020-11-07 19:05:47.499] [info] 6
+[2020-11-07 19:06:24.730] [info] 1
+[2020-11-07 19:06:24.740] [info] avant init db
+[2020-11-07 19:06:24.741] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 19:06:24.742] [info] homedir is C:\Users\thomas
+[2020-11-07 19:06:24.743] [info] après init db
+[2020-11-07 19:06:24.744] [info] 2
+[2020-11-07 19:06:24.807] [info] 3
+[2020-11-07 19:06:24.809] [info] 4
+[2020-11-07 19:06:24.810] [info] clipboardWatcher init
+[2020-11-07 19:06:24.827] [info] clipboardWatcher 2
+[2020-11-07 19:06:24.830] [info] 5
+[2020-11-07 19:06:24.835] [info] 6
+[2020-11-07 19:14:36.164] [info] 1
+[2020-11-07 19:14:36.173] [info] avant init db
+[2020-11-07 19:14:36.175] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 19:14:36.176] [info] homedir is C:\Users\thomas
+[2020-11-07 19:14:36.177] [info] après init db
+[2020-11-07 19:14:36.178] [info] 2
+[2020-11-07 19:14:36.243] [info] 3
+[2020-11-07 19:14:36.244] [info] 4
+[2020-11-07 19:14:36.246] [info] clipboardWatcher init
+[2020-11-07 19:14:36.265] [info] clipboardWatcher 2
+[2020-11-07 19:14:36.268] [info] 5
+[2020-11-07 19:14:36.272] [info] 6
+[2020-11-07 19:30:38.912] [info] 1
+[2020-11-07 19:30:38.921] [info] avant init db
+[2020-11-07 19:30:38.923] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 19:30:38.924] [info] homedir is C:\Users\thomas
+[2020-11-07 19:30:38.926] [info] après init db
+[2020-11-07 19:30:38.928] [info] 2
+[2020-11-07 19:30:38.998] [info] 3
+[2020-11-07 19:30:39.001] [info] 4
+[2020-11-07 19:30:39.003] [info] clipboardWatcher init
+[2020-11-07 19:30:39.024] [info] clipboardWatcher 2
+[2020-11-07 19:30:39.031] [info] 5
+[2020-11-07 19:30:39.035] [info] 6
+[2020-11-07 19:40:05.179] [info] 1
+[2020-11-07 19:40:05.189] [info] avant init db
+[2020-11-07 19:40:05.190] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 19:40:05.191] [info] homedir is C:\Users\thomas
+[2020-11-07 19:40:05.193] [info] après init db
+[2020-11-07 19:40:05.194] [info] 2
+[2020-11-07 19:40:05.267] [info] 3
+[2020-11-07 19:40:05.270] [info] 4
+[2020-11-07 19:40:05.272] [info] clipboardWatcher init
+[2020-11-07 19:40:05.293] [info] clipboardWatcher 2
+[2020-11-07 19:40:05.296] [info] 5
+[2020-11-07 19:40:05.300] [info] 6
+[2020-11-07 19:46:11.367] [info] 1
+[2020-11-07 19:46:11.379] [info] avant init db
+[2020-11-07 19:46:11.381] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 19:46:11.382] [info] homedir is C:\Users\thomas
+[2020-11-07 19:46:11.383] [info] après init db
+[2020-11-07 19:46:11.384] [info] 2
+[2020-11-07 19:46:11.447] [info] 3
+[2020-11-07 19:46:11.449] [info] 4
+[2020-11-07 19:46:11.450] [info] clipboardWatcher init
+[2020-11-07 19:46:11.467] [info] clipboardWatcher 2
+[2020-11-07 19:46:11.470] [info] 5
+[2020-11-07 19:46:11.474] [info] 6
+[2020-11-07 19:48:42.036] [info] 1
+[2020-11-07 19:48:42.049] [info] avant init db
+[2020-11-07 19:48:42.050] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 19:48:42.052] [info] homedir is C:\Users\thomas
+[2020-11-07 19:48:42.054] [info] après init db
+[2020-11-07 19:48:42.056] [info] 2
+[2020-11-07 19:48:42.122] [info] 3
+[2020-11-07 19:48:42.124] [info] 4
+[2020-11-07 19:48:42.126] [info] clipboardWatcher init
+[2020-11-07 19:48:42.142] [info] clipboardWatcher 2
+[2020-11-07 19:48:42.144] [info] 5
+[2020-11-07 19:48:42.148] [info] 6
+[2020-11-07 19:59:15.165] [info] 1
+[2020-11-07 19:59:15.175] [info] avant init db
+[2020-11-07 19:59:15.177] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 19:59:15.178] [info] homedir is C:\Users\thomas
+[2020-11-07 19:59:15.179] [info] après init db
+[2020-11-07 19:59:15.180] [info] 2
+[2020-11-07 19:59:15.252] [info] 3
+[2020-11-07 19:59:15.254] [info] 4
+[2020-11-07 19:59:15.255] [info] clipboardWatcher init
+[2020-11-07 19:59:15.274] [info] clipboardWatcher 2
+[2020-11-07 19:59:15.277] [info] 5
+[2020-11-07 19:59:15.280] [info] 6
+[2020-11-07 20:00:47.903] [info] 1
+[2020-11-07 20:00:47.915] [info] avant init db
+[2020-11-07 20:00:47.917] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:00:47.918] [info] homedir is C:\Users\thomas
+[2020-11-07 20:00:47.920] [info] après init db
+[2020-11-07 20:00:47.921] [info] 2
+[2020-11-07 20:00:47.992] [info] 3
+[2020-11-07 20:00:47.993] [info] 4
+[2020-11-07 20:00:47.995] [info] clipboardWatcher init
+[2020-11-07 20:00:48.015] [info] clipboardWatcher 2
+[2020-11-07 20:00:48.019] [info] 5
+[2020-11-07 20:00:48.025] [info] 6
+[2020-11-07 20:04:55.182] [info] 1
+[2020-11-07 20:04:55.192] [info] avant init db
+[2020-11-07 20:04:55.194] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:04:55.195] [info] homedir is C:\Users\thomas
+[2020-11-07 20:04:55.196] [info] après init db
+[2020-11-07 20:04:55.198] [info] 2
+[2020-11-07 20:04:55.250] [info] 3
+[2020-11-07 20:04:55.251] [info] 4
+[2020-11-07 20:04:55.253] [info] clipboardWatcher init
+[2020-11-07 20:04:55.270] [info] clipboardWatcher 2
+[2020-11-07 20:04:55.272] [info] 5
+[2020-11-07 20:04:55.274] [info] 6
+[2020-11-07 20:06:23.396] [info] 1
+[2020-11-07 20:06:23.411] [info] avant init db
+[2020-11-07 20:06:23.413] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:06:23.414] [info] homedir is C:\Users\thomas
+[2020-11-07 20:06:23.416] [info] après init db
+[2020-11-07 20:06:23.417] [info] 2
+[2020-11-07 20:06:23.489] [info] 3
+[2020-11-07 20:06:23.492] [info] 4
+[2020-11-07 20:06:23.494] [info] clipboardWatcher init
+[2020-11-07 20:06:23.516] [info] clipboardWatcher 2
+[2020-11-07 20:06:23.520] [info] 5
+[2020-11-07 20:06:23.525] [info] 6
+[2020-11-07 20:21:44.942] [info] 1
+[2020-11-07 20:21:44.954] [info] avant init db
+[2020-11-07 20:21:44.956] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:21:44.957] [info] homedir is C:\Users\thomas
+[2020-11-07 20:21:44.958] [info] après init db
+[2020-11-07 20:21:44.959] [info] 2
+[2020-11-07 20:21:45.028] [info] 3
+[2020-11-07 20:21:45.030] [info] 4
+[2020-11-07 20:21:45.032] [info] clipboardWatcher init
+[2020-11-07 20:21:45.049] [info] clipboardWatcher 2
+[2020-11-07 20:21:45.052] [info] 5
+[2020-11-07 20:21:45.055] [info] 6
+[2020-11-07 20:25:17.142] [info] 1
+[2020-11-07 20:25:17.153] [info] avant init db
+[2020-11-07 20:25:17.154] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:25:17.155] [info] homedir is C:\Users\thomas
+[2020-11-07 20:25:17.157] [info] après init db
+[2020-11-07 20:25:17.158] [info] 2
+[2020-11-07 20:25:17.220] [info] 3
+[2020-11-07 20:25:17.222] [info] 4
+[2020-11-07 20:25:17.223] [info] clipboardWatcher init
+[2020-11-07 20:25:17.242] [info] clipboardWatcher 2
+[2020-11-07 20:25:17.246] [info] 5
+[2020-11-07 20:25:17.252] [info] 6
+[2020-11-07 20:26:56.661] [info] 1
+[2020-11-07 20:26:56.675] [info] avant init db
+[2020-11-07 20:26:56.676] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:26:56.677] [info] homedir is C:\Users\thomas
+[2020-11-07 20:26:56.679] [info] après init db
+[2020-11-07 20:26:56.680] [info] 2
+[2020-11-07 20:26:56.742] [info] 3
+[2020-11-07 20:26:56.744] [info] 4
+[2020-11-07 20:26:56.745] [info] clipboardWatcher init
+[2020-11-07 20:26:56.763] [info] clipboardWatcher 2
+[2020-11-07 20:26:56.766] [info] 5
+[2020-11-07 20:26:56.768] [info] 6
+[2020-11-07 20:32:13.115] [info] 1
+[2020-11-07 20:32:13.125] [info] avant init db
+[2020-11-07 20:32:13.126] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:32:13.127] [info] homedir is C:\Users\thomas
+[2020-11-07 20:32:13.128] [info] après init db
+[2020-11-07 20:32:13.129] [info] 2
+[2020-11-07 20:32:13.200] [info] 3
+[2020-11-07 20:32:13.203] [info] 4
+[2020-11-07 20:32:13.204] [info] clipboardWatcher init
+[2020-11-07 20:32:13.223] [info] clipboardWatcher 2
+[2020-11-07 20:32:13.229] [info] 5
+[2020-11-07 20:32:13.234] [info] 6
+[2020-11-07 20:32:56.431] [info] 1
+[2020-11-07 20:32:56.442] [info] avant init db
+[2020-11-07 20:32:56.444] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:32:56.445] [info] homedir is C:\Users\thomas
+[2020-11-07 20:32:56.446] [info] après init db
+[2020-11-07 20:32:56.447] [info] 2
+[2020-11-07 20:32:56.511] [info] 3
+[2020-11-07 20:32:56.513] [info] 4
+[2020-11-07 20:32:56.514] [info] clipboardWatcher init
+[2020-11-07 20:32:56.532] [info] clipboardWatcher 2
+[2020-11-07 20:32:56.535] [info] 5
+[2020-11-07 20:32:56.538] [info] 6
+[2020-11-07 20:36:12.661] [info] 1
+[2020-11-07 20:36:12.672] [info] avant init db
+[2020-11-07 20:36:12.674] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:36:12.675] [info] homedir is C:\Users\thomas
+[2020-11-07 20:36:12.676] [info] après init db
+[2020-11-07 20:36:12.678] [info] 2
+[2020-11-07 20:36:12.743] [info] 3
+[2020-11-07 20:36:12.745] [info] 4
+[2020-11-07 20:36:12.747] [info] clipboardWatcher init
+[2020-11-07 20:36:12.769] [info] clipboardWatcher 2
+[2020-11-07 20:36:12.775] [info] 5
+[2020-11-07 20:36:12.780] [info] 6
+[2020-11-07 20:37:26.366] [info] 1
+[2020-11-07 20:37:26.384] [info] avant init db
+[2020-11-07 20:37:26.386] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:37:26.387] [info] homedir is C:\Users\thomas
+[2020-11-07 20:37:26.389] [info] après init db
+[2020-11-07 20:37:26.390] [info] 2
+[2020-11-07 20:37:26.455] [info] 3
+[2020-11-07 20:37:26.456] [info] 4
+[2020-11-07 20:37:26.458] [info] clipboardWatcher init
+[2020-11-07 20:37:26.477] [info] clipboardWatcher 2
+[2020-11-07 20:37:26.480] [info] 5
+[2020-11-07 20:37:26.482] [info] 6
+[2020-11-07 20:43:25.163] [info] 1
+[2020-11-07 20:43:25.172] [info] avant init db
+[2020-11-07 20:43:25.173] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:43:25.174] [info] homedir is C:\Users\thomas
+[2020-11-07 20:43:25.176] [info] après init db
+[2020-11-07 20:43:25.177] [info] 2
+[2020-11-07 20:43:25.253] [info] 3
+[2020-11-07 20:43:25.256] [info] 4
+[2020-11-07 20:43:25.258] [info] clipboardWatcher init
+[2020-11-07 20:43:25.280] [info] clipboardWatcher 2
+[2020-11-07 20:43:25.282] [info] 5
+[2020-11-07 20:43:25.289] [info] 6
+[2020-11-07 20:44:38.821] [info] 1
+[2020-11-07 20:44:38.836] [info] avant init db
+[2020-11-07 20:44:38.838] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:44:38.840] [info] homedir is C:\Users\thomas
+[2020-11-07 20:44:38.842] [info] après init db
+[2020-11-07 20:44:38.843] [info] 2
+[2020-11-07 20:44:38.931] [info] 3
+[2020-11-07 20:44:38.933] [info] 4
+[2020-11-07 20:44:38.935] [info] clipboardWatcher init
+[2020-11-07 20:44:38.956] [info] clipboardWatcher 2
+[2020-11-07 20:44:38.967] [info] 5
+[2020-11-07 20:44:38.974] [info] 6
+[2020-11-07 20:49:34.419] [info] 1
+[2020-11-07 20:49:34.432] [info] avant init db
+[2020-11-07 20:49:34.434] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:49:34.435] [info] homedir is C:\Users\thomas
+[2020-11-07 20:49:34.436] [info] après init db
+[2020-11-07 20:49:34.437] [info] 2
+[2020-11-07 20:49:34.508] [info] 3
+[2020-11-07 20:49:34.510] [info] 4
+[2020-11-07 20:49:34.511] [info] clipboardWatcher init
+[2020-11-07 20:49:34.533] [info] clipboardWatcher 2
+[2020-11-07 20:49:34.538] [info] 5
+[2020-11-07 20:49:34.545] [info] 6
+[2020-11-07 20:52:34.515] [info] 1
+[2020-11-07 20:52:34.527] [info] avant init db
+[2020-11-07 20:52:34.529] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:52:34.530] [info] homedir is C:\Users\thomas
+[2020-11-07 20:52:34.532] [info] après init db
+[2020-11-07 20:52:34.534] [info] 2
+[2020-11-07 20:52:34.611] [info] 3
+[2020-11-07 20:52:34.613] [info] 4
+[2020-11-07 20:52:34.615] [info] clipboardWatcher init
+[2020-11-07 20:52:34.639] [info] clipboardWatcher 2
+[2020-11-07 20:52:34.643] [info] 5
+[2020-11-07 20:52:34.648] [info] 6
+[2020-11-07 20:58:06.351] [info] 1
+[2020-11-07 20:58:06.365] [info] avant init db
+[2020-11-07 20:58:06.366] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:58:06.369] [info] homedir is C:\Users\thomas
+[2020-11-07 20:58:06.371] [info] après init db
+[2020-11-07 20:58:06.373] [info] 2
+[2020-11-07 20:58:06.442] [info] 3
+[2020-11-07 20:58:06.445] [info] 4
+[2020-11-07 20:58:06.447] [info] clipboardWatcher init
+[2020-11-07 20:58:06.469] [info] clipboardWatcher 2
+[2020-11-07 20:58:06.476] [info] 5
+[2020-11-07 20:58:06.483] [info] 6
+[2020-11-07 20:59:38.767] [info] 1
+[2020-11-07 20:59:38.779] [info] avant init db
+[2020-11-07 20:59:38.780] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 20:59:38.781] [info] homedir is C:\Users\thomas
+[2020-11-07 20:59:38.783] [info] après init db
+[2020-11-07 20:59:38.784] [info] 2
+[2020-11-07 20:59:38.852] [info] 3
+[2020-11-07 20:59:38.854] [info] 4
+[2020-11-07 20:59:38.855] [info] clipboardWatcher init
+[2020-11-07 20:59:38.873] [info] clipboardWatcher 2
+[2020-11-07 20:59:38.877] [info] 5
+[2020-11-07 20:59:38.880] [info] 6
+[2020-11-07 21:00:59.528] [info] 1
+[2020-11-07 21:00:59.542] [info] avant init db
+[2020-11-07 21:00:59.544] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 21:00:59.545] [info] homedir is C:\Users\thomas
+[2020-11-07 21:00:59.546] [info] après init db
+[2020-11-07 21:00:59.547] [info] 2
+[2020-11-07 21:00:59.619] [info] 3
+[2020-11-07 21:00:59.621] [info] 4
+[2020-11-07 21:00:59.623] [info] clipboardWatcher init
+[2020-11-07 21:00:59.645] [info] clipboardWatcher 2
+[2020-11-07 21:00:59.647] [info] 5
+[2020-11-07 21:00:59.649] [info] 6
+[2020-11-07 21:58:26.012] [info] 1
+[2020-11-07 21:58:26.022] [info] avant init db
+[2020-11-07 21:58:26.024] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 21:58:26.025] [info] homedir is C:\Users\thomas
+[2020-11-07 21:58:26.026] [info] après init db
+[2020-11-07 21:58:26.028] [info] 2
+[2020-11-07 21:58:26.098] [info] 3
+[2020-11-07 21:58:26.100] [info] 4
+[2020-11-07 21:58:26.102] [info] clipboardWatcher init
+[2020-11-07 21:58:26.123] [info] clipboardWatcher 2
+[2020-11-07 21:58:26.126] [info] 5
+[2020-11-07 21:58:26.129] [info] 6
+[2020-11-07 22:10:32.515] [info] 1
+[2020-11-07 22:10:32.525] [info] avant init db
+[2020-11-07 22:10:32.526] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 22:10:32.527] [info] homedir is C:\Users\thomas
+[2020-11-07 22:10:32.529] [info] après init db
+[2020-11-07 22:10:32.530] [info] 2
+[2020-11-07 22:10:32.613] [info] 3
+[2020-11-07 22:10:32.615] [info] 4
+[2020-11-07 22:10:32.617] [info] clipboardWatcher init
+[2020-11-07 22:10:32.639] [info] clipboardWatcher 2
+[2020-11-07 22:10:32.647] [info] 5
+[2020-11-07 22:10:32.652] [info] 6
+[2020-11-07 22:14:37.608] [info] 1
+[2020-11-07 22:14:37.622] [info] avant init db
+[2020-11-07 22:14:37.623] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-07 22:14:37.624] [info] homedir is C:\Users\thomas
+[2020-11-07 22:14:37.626] [info] après init db
+[2020-11-07 22:14:37.627] [info] 2
+[2020-11-07 22:14:37.703] [info] 3
+[2020-11-07 22:14:37.704] [info] 4
+[2020-11-07 22:14:37.707] [info] clipboardWatcher init
+[2020-11-07 22:14:37.727] [info] clipboardWatcher 2
+[2020-11-07 22:14:37.729] [info] 5
+[2020-11-07 22:14:37.733] [info] 6
+[2020-11-08 00:48:25.537] [info] 1
+[2020-11-08 00:48:25.548] [info] avant init db
+[2020-11-08 00:48:25.551] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-11-08 00:48:25.553] [info] homedir is C:\Users\thomas
+[2020-11-08 00:48:25.554] [info] après init db
+[2020-11-08 00:48:25.555] [info] 2
+[2020-11-08 00:48:25.632] [info] 3
+[2020-11-08 00:48:25.634] [info] 4
+[2020-11-08 00:48:25.636] [info] clipboardWatcher init
+[2020-11-08 00:48:25.659] [info] clipboardWatcher 2
+[2020-11-08 00:48:25.662] [info] 5
+[2020-11-08 00:48:25.666] [info] 6
+[2020-12-20 22:07:15.669] [info] 1
+[2020-12-20 22:07:15.681] [info] avant init db
+[2020-12-20 22:07:15.683] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-12-20 22:07:15.684] [info] homedir is C:\Users\thomas
+[2020-12-20 22:07:15.685] [info] après init db
+[2020-12-20 22:07:15.686] [info] 2
+[2020-12-20 22:07:15.766] [info] 3
+[2020-12-20 22:07:15.770] [info] 4
+[2020-12-20 22:07:15.771] [info] clipboardWatcher init
+[2020-12-20 22:07:15.824] [info] clipboardWatcher 2
+[2020-12-20 22:07:15.826] [info] 5
+[2020-12-20 22:07:15.829] [info] 6
+[2020-12-20 22:18:51.507] [info] 1
+[2020-12-20 22:18:51.518] [info] avant init db
+[2020-12-20 22:18:51.520] [info] dirname is C:\Users\thomas\source\pasteIt\dist_electron
+[2020-12-20 22:18:51.521] [info] homedir is C:\Users\thomas
+[2020-12-20 22:18:51.522] [info] après init db
+[2020-12-20 22:18:51.523] [info] 2
+[2020-12-20 22:18:51.580] [info] 3
+[2020-12-20 22:18:51.582] [info] 4
+[2020-12-20 22:18:51.584] [info] clipboardWatcher init
+[2020-12-20 22:18:51.608] [info] clipboardWatcher 2
+[2020-12-20 22:18:51.610] [info] 5
+[2020-12-20 22:18:51.613] [info] 6

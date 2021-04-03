@@ -1,0 +1,459 @@
+[2020-11-07 01:09:00.505] [info] avant init db
+[2020-11-07 01:09:00.514] [info] dirname is src\features
+[2020-11-07 01:09:00.515] [info] homedir is C:\Users\thomas
+[2020-11-07 01:09:00.516] [info] après init db
+[2020-11-07 01:09:29.227] [info] avant init db
+[2020-11-07 01:09:29.236] [info] dirname is src\features
+[2020-11-07 01:09:29.238] [info] homedir is C:\Users\thomas
+[2020-11-07 01:09:29.240] [info] après init db
+[2020-11-07 01:09:38.975] [info] itemocrclick
+[2020-11-07 01:09:38.976] [info] itemocrclick 2
+[2020-11-07 01:09:43.682] [info] itemocrclick 3
+[2020-11-07 01:09:43.686] [info] itemocrclick 4
+[2020-11-07 01:09:44.243] [debug] Tesseract debug : {"status":"loading tesseract core","progress":0}
+[2020-11-07 01:09:46.593] [debug] Tesseract debug : {"status":"loading tesseract core","progress":1}
+[2020-11-07 01:09:46.594] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","status":"initializing tesseract","progress":0}
+[2020-11-07 01:09:49.021] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","status":"initialized tesseract","progress":1}
+[2020-11-07 01:09:49.022] [info] itemocrclick 5
+[2020-11-07 01:09:49.034] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","status":"loading language traineddata","progress":0}
+[2020-11-07 01:09:49.862] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","status":"loaded language traineddata","progress":1}
+[2020-11-07 01:09:49.896] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","status":"loading language traineddata","progress":0}
+[2020-11-07 01:09:50.213] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","status":"loaded language traineddata","progress":1}
+[2020-11-07 01:09:50.214] [info] itemocrclick 6
+[2020-11-07 01:09:50.217] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","status":"initializing api","progress":0}
+[2020-11-07 01:09:53.295] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","status":"initialized api","progress":1}
+[2020-11-07 01:09:53.295] [info] itemocrclick 7
+[2020-11-07 01:09:53.575] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0}
+[2020-11-07 01:09:54.440] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.17142857142857143}
+[2020-11-07 01:09:54.497] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.35714285714285715}
+[2020-11-07 01:09:54.573] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.5285714285714286}
+[2020-11-07 01:09:55.698] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.7142857142857143}
+[2020-11-07 01:09:55.699] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.7142857142857143}
+[2020-11-07 01:09:55.700] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.7285714285714285}
+[2020-11-07 01:09:55.701] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.7428571428571429}
+[2020-11-07 01:09:55.703] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.7571428571428571}
+[2020-11-07 01:09:55.703] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.7714285714285715}
+[2020-11-07 01:09:55.704] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.7857142857142857}
+[2020-11-07 01:09:55.705] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.7857142857142857}
+[2020-11-07 01:09:55.706] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.8}
+[2020-11-07 01:09:55.707] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.8142857142857143}
+[2020-11-07 01:09:55.708] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.8285714285714286}
+[2020-11-07 01:09:55.709] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":0.8428571428571429}
+[2020-11-07 01:09:55.709] [debug] Tesseract debug : {"workerId":"Worker-0-d62e5","jobId":"Job-0-ee9fd","status":"recognizing text","progress":1}
+[2020-11-07 01:09:55.730] [info] itemocrclick 8
+[2020-11-07 01:09:56.424] [info] itemocrclick 9
+[2020-11-07 01:09:56.799] [info] itemocrclick 10
+[2020-11-07 01:09:56.849] [info] itemocrclick 11
+[2020-11-07 13:45:53.173] [info] itemocrclick
+[2020-11-07 13:45:53.176] [info] itemocrclick 2
+[2020-11-07 13:45:53.176] [info] itemocrclick 3
+[2020-11-07 13:45:59.785] [info] itemocrclick 4
+[2020-11-07 13:46:00.202] [debug] Tesseract debug : {"status":"loading tesseract core","progress":0}
+[2020-11-07 13:46:00.564] [debug] Tesseract debug : {"status":"loading tesseract core","progress":1}
+[2020-11-07 13:46:00.565] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","status":"initializing tesseract","progress":0}
+[2020-11-07 13:46:02.682] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","status":"initialized tesseract","progress":1}
+[2020-11-07 13:46:02.686] [info] itemocrclick 5
+[2020-11-07 13:46:02.693] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","status":"loading language traineddata","progress":0}
+[2020-11-07 13:46:03.404] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","status":"loaded language traineddata","progress":1}
+[2020-11-07 13:46:03.407] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","status":"loading language traineddata","progress":0}
+[2020-11-07 13:46:03.751] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","status":"loaded language traineddata","progress":1}
+[2020-11-07 13:46:03.753] [info] itemocrclick 6
+[2020-11-07 13:46:03.754] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","status":"initializing api","progress":0}
+[2020-11-07 13:46:06.753] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","status":"initialized api","progress":1}
+[2020-11-07 13:46:06.755] [info] itemocrclick 7
+[2020-11-07 13:46:07.045] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0}
+[2020-11-07 13:46:07.897] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.17142857142857143}
+[2020-11-07 13:46:07.951] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.35714285714285715}
+[2020-11-07 13:46:08.027] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.5285714285714286}
+[2020-11-07 13:46:09.193] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.7142857142857143}
+[2020-11-07 13:46:09.195] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.7142857142857143}
+[2020-11-07 13:46:09.196] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.7285714285714285}
+[2020-11-07 13:46:09.197] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.7428571428571429}
+[2020-11-07 13:46:09.198] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.7571428571428571}
+[2020-11-07 13:46:09.198] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.7714285714285715}
+[2020-11-07 13:46:09.200] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.7857142857142857}
+[2020-11-07 13:46:09.201] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.7857142857142857}
+[2020-11-07 13:46:09.202] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.8}
+[2020-11-07 13:46:09.202] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.8142857142857143}
+[2020-11-07 13:46:09.203] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.8285714285714286}
+[2020-11-07 13:46:09.205] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":0.8428571428571429}
+[2020-11-07 13:46:09.206] [debug] Tesseract debug : {"workerId":"Worker-1-75ad5","jobId":"Job-5-f8e0f","status":"recognizing text","progress":1}
+[2020-11-07 13:46:09.222] [info] itemocrclick 8
+[2020-11-07 13:46:09.246] [info] itemocrclick 9
+[2020-11-07 13:46:09.407] [info] itemocrclick 10
+[2020-11-07 13:46:09.411] [info] itemocrclick 11
+[2020-11-07 13:46:13.726] [info] itemocrclick
+[2020-11-07 13:46:13.726] [info] itemocrclick 2
+[2020-11-07 13:46:13.727] [info] itemocrclick 3
+[2020-11-07 13:46:15.501] [info] itemocrclick 4
+[2020-11-07 13:46:15.593] [debug] Tesseract debug : {"status":"loading tesseract core","progress":0}
+[2020-11-07 13:46:15.713] [debug] Tesseract debug : {"status":"loading tesseract core","progress":1}
+[2020-11-07 13:46:15.714] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","status":"initializing tesseract","progress":0}
+[2020-11-07 13:46:18.127] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","status":"initialized tesseract","progress":1}
+[2020-11-07 13:46:18.130] [info] itemocrclick 5
+[2020-11-07 13:46:18.151] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","status":"loading language traineddata","progress":0}
+[2020-11-07 13:46:18.931] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","status":"loaded language traineddata","progress":1}
+[2020-11-07 13:46:18.936] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","status":"loading language traineddata","progress":0}
+[2020-11-07 13:46:19.215] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","status":"loaded language traineddata","progress":1}
+[2020-11-07 13:46:19.216] [info] itemocrclick 6
+[2020-11-07 13:46:19.219] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","status":"initializing api","progress":0}
+[2020-11-07 13:46:22.309] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","status":"initialized api","progress":1}
+[2020-11-07 13:46:22.310] [info] itemocrclick 7
+[2020-11-07 13:46:22.592] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0}
+[2020-11-07 13:46:23.441] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.17142857142857143}
+[2020-11-07 13:46:23.497] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.35714285714285715}
+[2020-11-07 13:46:23.567] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.5285714285714286}
+[2020-11-07 13:46:24.793] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.7142857142857143}
+[2020-11-07 13:46:24.794] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.7142857142857143}
+[2020-11-07 13:46:24.795] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.7285714285714285}
+[2020-11-07 13:46:24.797] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.7428571428571429}
+[2020-11-07 13:46:24.797] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.7571428571428571}
+[2020-11-07 13:46:24.799] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.7714285714285715}
+[2020-11-07 13:46:24.800] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.7857142857142857}
+[2020-11-07 13:46:24.800] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.7857142857142857}
+[2020-11-07 13:46:24.801] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.8}
+[2020-11-07 13:46:24.802] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.8142857142857143}
+[2020-11-07 13:46:24.803] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.8285714285714286}
+[2020-11-07 13:46:24.805] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":0.8428571428571429}
+[2020-11-07 13:46:24.805] [debug] Tesseract debug : {"workerId":"Worker-2-5e214","jobId":"Job-10-bfd9b","status":"recognizing text","progress":1}
+[2020-11-07 13:46:24.828] [info] itemocrclick 8
+[2020-11-07 13:46:24.846] [info] itemocrclick 9
+[2020-11-07 13:46:25.006] [info] itemocrclick 10
+[2020-11-07 13:46:25.009] [info] itemocrclick 11
+[2020-11-07 19:03:23.401] [info] avant init db
+[2020-11-07 19:03:23.409] [info] dirname is src\features
+[2020-11-07 19:03:23.410] [info] homedir is C:\Users\thomas
+[2020-11-07 19:03:23.411] [info] après init db
+[2020-11-07 19:03:45.622] [info] avant init db
+[2020-11-07 19:03:45.630] [info] dirname is src\features
+[2020-11-07 19:03:45.632] [info] homedir is C:\Users\thomas
+[2020-11-07 19:03:45.633] [info] après init db
+[2020-11-07 19:03:52.032] [info] itemocrclick
+[2020-11-07 19:03:52.034] [info] itemocrclick 2
+[2020-11-07 19:03:52.035] [info] itemocrclick 3
+[2020-11-07 19:03:52.078] [info] itemocrclick 4
+[2020-11-07 19:03:52.083] [info] itemocrclick 11
+[2020-11-07 19:05:29.061] [info] avant init db
+[2020-11-07 19:05:29.063] [info] dirname is src\features
+[2020-11-07 19:05:29.063] [info] homedir is C:\Users\thomas
+[2020-11-07 19:05:29.064] [info] après init db
+[2020-11-07 19:05:37.369] [info] avant init db
+[2020-11-07 19:05:37.380] [info] dirname is src\features
+[2020-11-07 19:05:37.383] [info] homedir is C:\Users\thomas
+[2020-11-07 19:05:37.385] [info] après init db
+[2020-11-07 19:05:55.012] [info] avant init db
+[2020-11-07 19:05:55.019] [info] dirname is src\features
+[2020-11-07 19:05:55.021] [info] homedir is C:\Users\thomas
+[2020-11-07 19:05:55.022] [info] après init db
+[2020-11-07 19:05:58.863] [info] itemocrclick
+[2020-11-07 19:05:58.865] [info] itemocrclick 2
+[2020-11-07 19:05:58.865] [info] itemocrclick 3
+[2020-11-07 19:05:58.907] [info] itemocrclick 4
+[2020-11-07 19:05:58.910] [info] itemocrclick 11
+[2020-11-07 19:06:16.340] [info] avant init db
+[2020-11-07 19:06:16.340] [info] dirname is src\features
+[2020-11-07 19:06:16.341] [info] homedir is C:\Users\thomas
+[2020-11-07 19:06:16.342] [info] après init db
+[2020-11-07 19:06:32.099] [info] avant init db
+[2020-11-07 19:06:32.107] [info] dirname is src\features
+[2020-11-07 19:06:32.108] [info] homedir is C:\Users\thomas
+[2020-11-07 19:06:32.110] [info] après init db
+[2020-11-07 19:06:37.103] [info] itemocrclick
+[2020-11-07 19:06:37.104] [info] itemocrclick 2
+[2020-11-07 19:06:37.104] [info] itemocrclick 3
+[2020-11-07 19:06:37.142] [info] itemocrclick 4
+[2020-11-07 19:06:37.144] [info] itemocrclick 11
+[2020-11-07 19:12:47.545] [info] avant init db
+[2020-11-07 19:12:47.546] [info] dirname is src\features
+[2020-11-07 19:12:47.546] [info] homedir is C:\Users\thomas
+[2020-11-07 19:12:47.548] [info] après init db
+[2020-11-07 19:12:53.514] [info] avant init db
+[2020-11-07 19:12:53.515] [info] dirname is src\features
+[2020-11-07 19:12:53.516] [info] homedir is C:\Users\thomas
+[2020-11-07 19:12:53.516] [info] après init db
+[2020-11-07 19:14:27.286] [info] avant init db
+[2020-11-07 19:14:27.287] [info] dirname is src\features
+[2020-11-07 19:14:27.288] [info] homedir is C:\Users\thomas
+[2020-11-07 19:14:27.289] [info] après init db
+[2020-11-07 19:14:43.729] [info] avant init db
+[2020-11-07 19:14:43.736] [info] dirname is src\features
+[2020-11-07 19:14:43.737] [info] homedir is C:\Users\thomas
+[2020-11-07 19:14:43.738] [info] après init db
+[2020-11-07 19:14:48.727] [info] itemocrclick
+[2020-11-07 19:14:48.728] [info] itemocrclick 2
+[2020-11-07 19:14:48.729] [info] itemocrclick 3
+[2020-11-07 19:14:48.766] [info] itemocrclick 4
+[2020-11-07 19:14:48.769] [info] itemocrclick 11
+[2020-11-07 19:30:46.427] [info] avant init db
+[2020-11-07 19:30:46.437] [info] dirname is src\features
+[2020-11-07 19:30:46.438] [info] homedir is C:\Users\thomas
+[2020-11-07 19:30:46.439] [info] après init db
+[2020-11-07 19:30:54.644] [info] itemocrclick
+[2020-11-07 19:30:54.644] [info] itemocrclick 2
+[2020-11-07 19:30:54.645] [info] itemocrclick 3
+[2020-11-07 19:30:54.682] [info] itemocrclick 4
+[2020-11-07 19:30:54.685] [info] itemocrclick 11
+[2020-11-07 19:39:57.209] [info] itemocrclick
+[2020-11-07 19:39:57.211] [info] itemocrclick 2
+[2020-11-07 19:39:57.212] [info] itemocrclick 3
+[2020-11-07 19:39:57.247] [info] itemocrclick 4
+[2020-11-07 19:39:57.248] [info] itemocrclick 11
+[2020-11-07 19:40:12.713] [info] avant init db
+[2020-11-07 19:40:12.721] [info] dirname is src\features
+[2020-11-07 19:40:12.722] [info] homedir is C:\Users\thomas
+[2020-11-07 19:40:12.724] [info] après init db
+[2020-11-07 19:40:27.044] [info] itemocrclick
+[2020-11-07 19:40:27.046] [info] itemocrclick 2
+[2020-11-07 19:40:27.046] [info] itemocrclick 3
+[2020-11-07 19:40:27.086] [info] itemocrclick 4
+[2020-11-07 19:40:27.089] [info] itemocrclick 11
+[2020-11-07 19:40:52.978] [info] itemocrclick
+[2020-11-07 19:40:52.979] [info] itemocrclick 2
+[2020-11-07 19:40:52.980] [info] itemocrclick 3
+[2020-11-07 19:41:24.988] [info] itemocrclick 4
+[2020-11-07 19:41:24.989] [info] itemocrclick 11
+[2020-11-07 19:41:26.667] [info] itemocrclick
+[2020-11-07 19:41:26.668] [info] itemocrclick 2
+[2020-11-07 19:41:26.669] [info] itemocrclick 3
+[2020-11-07 19:41:56.362] [info] itemocrclick 4
+[2020-11-07 19:41:56.365] [info] itemocrclick 11
+[2020-11-07 19:41:57.435] [info] itemocrclick
+[2020-11-07 19:41:57.436] [info] itemocrclick 2
+[2020-11-07 19:41:57.437] [info] itemocrclick 3
+[2020-11-07 19:45:52.366] [info] itemocrclick 4
+[2020-11-07 19:45:52.367] [info] itemocrclick 11
+[2020-11-07 19:46:07.549] [info] avant init db
+[2020-11-07 19:46:07.550] [info] dirname is src\features
+[2020-11-07 19:46:07.551] [info] homedir is C:\Users\thomas
+[2020-11-07 19:46:18.687] [info] avant init db
+[2020-11-07 19:46:18.695] [info] dirname is src\features
+[2020-11-07 19:46:18.696] [info] homedir is C:\Users\thomas
+[2020-11-07 19:46:18.698] [info] après init db
+[2020-11-07 19:46:49.778] [info] itemocrclick
+[2020-11-07 19:46:49.779] [info] itemocrclick 2
+[2020-11-07 19:46:49.780] [info] itemocrclick 3
+[2020-11-07 19:47:58.881] [info] itemocrclick 4
+[2020-11-07 19:47:58.886] [info] itemocrclick 11
+[2020-11-07 19:48:36.174] [info] avant init db
+[2020-11-07 19:48:36.176] [info] dirname is src\features
+[2020-11-07 19:48:36.176] [info] homedir is C:\Users\thomas
+[2020-11-07 19:48:49.365] [info] avant init db
+[2020-11-07 19:48:49.374] [info] dirname is src\features
+[2020-11-07 19:48:49.374] [info] homedir is C:\Users\thomas
+[2020-11-07 19:48:49.376] [info] après init db
+[2020-11-07 19:49:10.521] [info] itemocrclick
+[2020-11-07 19:49:10.524] [info] itemocrclick 2
+[2020-11-07 19:49:10.524] [info] itemocrclick 3
+[2020-11-07 19:49:10.565] [info] itemocrclick 4
+[2020-11-07 19:49:23.619] [info] itemocrclick 11
+[2020-11-07 19:50:20.192] [info] itemocrclick
+[2020-11-07 19:50:20.194] [info] itemocrclick 2
+[2020-11-07 19:50:20.195] [info] itemocrclick 3
+[2020-11-07 19:50:20.229] [info] itemocrclick 4
+[2020-11-07 19:51:05.592] [info] itemocrclick 11
+[2020-11-07 19:51:07.313] [info] itemocrclick
+[2020-11-07 19:51:07.314] [info] itemocrclick 2
+[2020-11-07 19:51:07.314] [info] itemocrclick 3
+[2020-11-07 19:51:07.348] [info] itemocrclick 4
+[2020-11-07 19:51:10.615] [info] itemocrclick 11
+[2020-11-07 19:56:07.977] [info] itemocrclick
+[2020-11-07 19:56:07.978] [info] itemocrclick 2
+[2020-11-07 19:56:07.979] [info] itemocrclick 3
+[2020-11-07 19:56:08.011] [info] itemocrclick 4
+[2020-11-07 19:56:12.687] [info] itemocrclick 11
+[2020-11-07 19:59:17.476] [info] avant init db
+[2020-11-07 19:59:17.488] [info] dirname is src\features
+[2020-11-07 19:59:17.489] [info] homedir is C:\Users\thomas
+[2020-11-07 19:59:17.491] [info] après init db
+[2020-11-07 19:59:28.664] [info] itemocrclick
+[2020-11-07 19:59:28.666] [info] itemocrclick 2
+[2020-11-07 19:59:28.666] [info] itemocrclick 3
+[2020-11-07 19:59:28.704] [info] itemocrclick 4
+[2020-11-07 20:00:50.279] [info] avant init db
+[2020-11-07 20:00:50.291] [info] dirname is src\features
+[2020-11-07 20:00:50.292] [info] homedir is C:\Users\thomas
+[2020-11-07 20:00:50.316] [info] après init db
+[2020-11-07 20:00:59.345] [info] itemocrclick
+[2020-11-07 20:00:59.346] [info] itemocrclick 2
+[2020-11-07 20:00:59.347] [info] itemocrclick 3
+[2020-11-07 20:00:59.384] [info] itemocrclick 4
+[2020-11-07 20:04:56.893] [info] avant init db
+[2020-11-07 20:04:56.901] [info] dirname is src\features
+[2020-11-07 20:04:56.902] [info] homedir is C:\Users\thomas
+[2020-11-07 20:04:56.903] [info] après init db
+[2020-11-07 20:05:03.016] [info] itemocrclick
+[2020-11-07 20:05:03.018] [info] itemocrclick 2
+[2020-11-07 20:05:03.018] [info] itemocrclick 3
+[2020-11-07 20:05:03.057] [info] itemocrclick 4
+[2020-11-07 20:06:24.779] [info] avant init db
+[2020-11-07 20:06:24.787] [info] dirname is src\features
+[2020-11-07 20:06:24.788] [info] homedir is C:\Users\thomas
+[2020-11-07 20:06:24.789] [info] après init db
+[2020-11-07 20:06:29.592] [info] itemocrclick
+[2020-11-07 20:06:29.594] [info] itemocrclick 2
+[2020-11-07 20:06:29.595] [info] itemocrclick 3
+[2020-11-07 20:06:29.631] [info] itemocrclick 4
+[2020-11-07 20:21:46.564] [info] avant init db
+[2020-11-07 20:21:46.572] [info] dirname is src\features
+[2020-11-07 20:21:46.573] [info] homedir is C:\Users\thomas
+[2020-11-07 20:21:46.575] [info] après init db
+[2020-11-07 20:21:56.367] [info] itemocrclick
+[2020-11-07 20:21:56.369] [info] itemocrclick 2
+[2020-11-07 20:21:56.370] [info] itemocrclick 11
+[2020-11-07 20:22:40.151] [info] itemocrclick
+[2020-11-07 20:22:40.152] [info] itemocrclick 2
+[2020-11-07 20:22:40.153] [info] itemocrclick 11
+[2020-11-07 20:22:58.470] [info] itemocrclick
+[2020-11-07 20:22:58.471] [info] itemocrclick 2
+[2020-11-07 20:22:58.472] [info] itemocrclick 11
+[2020-11-07 20:25:24.681] [info] avant init db
+[2020-11-07 20:25:24.690] [info] dirname is src\features
+[2020-11-07 20:25:24.691] [info] homedir is C:\Users\thomas
+[2020-11-07 20:25:24.692] [info] après init db
+[2020-11-07 20:25:31.135] [info] itemocrclick
+[2020-11-07 20:25:31.135] [info] itemocrclick 2
+[2020-11-07 20:25:31.136] [info] itemocrclick 11
+[2020-11-07 20:26:17.926] [info] itemocrclick
+[2020-11-07 20:26:17.928] [info] itemocrclick 2
+[2020-11-07 20:26:17.930] [info] itemocrclick 11
+[2020-11-07 20:27:00.727] [info] avant init db
+[2020-11-07 20:27:00.735] [info] dirname is src\features
+[2020-11-07 20:27:00.736] [info] homedir is C:\Users\thomas
+[2020-11-07 20:27:00.738] [info] après init db
+[2020-11-07 20:27:05.247] [info] itemocrclick
+[2020-11-07 20:27:05.249] [info] itemocrclick 2
+[2020-11-07 20:27:05.249] [info] itemocrclick 11
+[2020-11-07 20:32:14.989] [info] avant init db
+[2020-11-07 20:32:15.000] [info] dirname is src\features
+[2020-11-07 20:32:15.002] [info] homedir is C:\Users\thomas
+[2020-11-07 20:32:15.004] [info] après init db
+[2020-11-07 20:32:19.358] [info] itemocrclick
+[2020-11-07 20:32:19.359] [info] itemocrclick 2
+[2020-11-07 20:32:19.360] [info] itemocrclick 11
+[2020-11-07 20:32:58.182] [info] avant init db
+[2020-11-07 20:32:58.193] [info] dirname is src\features
+[2020-11-07 20:32:58.195] [info] homedir is C:\Users\thomas
+[2020-11-07 20:32:58.196] [info] après init db
+[2020-11-07 20:33:02.422] [info] itemocrclick
+[2020-11-07 20:33:02.423] [info] itemocrclick 2
+[2020-11-07 20:33:02.424] [info] itemocrclick 11
+[2020-11-07 20:36:14.549] [info] avant init db
+[2020-11-07 20:36:14.558] [info] dirname is src\features
+[2020-11-07 20:36:14.559] [info] homedir is C:\Users\thomas
+[2020-11-07 20:36:14.561] [info] après init db
+[2020-11-07 20:36:18.742] [info] itemocrclick
+[2020-11-07 20:36:18.743] [info] itemocrclick 2
+[2020-11-07 20:36:18.744] [info] itemocrclick 11
+[2020-11-07 20:37:28.524] [info] avant init db
+[2020-11-07 20:37:28.536] [info] dirname is src\features
+[2020-11-07 20:37:28.540] [info] homedir is C:\Users\thomas
+[2020-11-07 20:37:28.545] [info] après init db
+[2020-11-07 20:37:33.309] [info] itemocrclick
+[2020-11-07 20:37:33.310] [info] itemocrclick 2
+[2020-11-07 20:37:33.311] [info] itemocrclick 11
+[2020-11-07 20:43:27.125] [info] avant init db
+[2020-11-07 20:43:27.137] [info] dirname is src\features
+[2020-11-07 20:43:27.138] [info] homedir is C:\Users\thomas
+[2020-11-07 20:43:27.139] [info] après init db
+[2020-11-07 20:43:40.085] [info] itemocrclick
+[2020-11-07 20:43:40.086] [info] itemocrclick 2
+[2020-11-07 20:43:40.088] [info] itemocrclick 11
+[2020-11-07 20:44:40.926] [info] avant init db
+[2020-11-07 20:44:40.937] [info] dirname is src\features
+[2020-11-07 20:44:40.940] [info] homedir is C:\Users\thomas
+[2020-11-07 20:44:40.942] [info] après init db
+[2020-11-07 20:44:45.141] [info] itemocrclick
+[2020-11-07 20:44:45.143] [info] itemocrclick 2
+[2020-11-07 20:44:45.143] [info] itemocrclick 11
+[2020-11-07 20:49:36.539] [info] avant init db
+[2020-11-07 20:49:36.551] [info] dirname is src\features
+[2020-11-07 20:49:36.552] [info] homedir is C:\Users\thomas
+[2020-11-07 20:49:36.554] [info] après init db
+[2020-11-07 20:49:42.747] [info] itemocrclick
+[2020-11-07 20:49:42.749] [info] itemocrclick 2
+[2020-11-07 20:49:42.750] [info] itemocrclick 11
+[2020-11-07 20:52:36.952] [info] avant init db
+[2020-11-07 20:52:36.965] [info] dirname is src\features
+[2020-11-07 20:52:36.967] [info] homedir is C:\Users\thomas
+[2020-11-07 20:52:36.974] [info] après init db
+[2020-11-07 20:52:45.588] [info] itemocrclick
+[2020-11-07 20:52:45.589] [info] itemocrclick 2
+[2020-11-07 20:52:45.590] [info] itemocrclick 11
+[2020-11-07 20:58:08.593] [info] avant init db
+[2020-11-07 20:58:08.606] [info] dirname is src\features
+[2020-11-07 20:58:08.607] [info] homedir is C:\Users\thomas
+[2020-11-07 20:58:08.609] [info] après init db
+[2020-11-07 20:58:20.819] [info] itemocrclick
+[2020-11-07 20:58:20.821] [info] itemocrclick 2
+[2020-11-07 20:59:40.442] [info] avant init db
+[2020-11-07 20:59:40.451] [info] dirname is src\features
+[2020-11-07 20:59:40.452] [info] homedir is C:\Users\thomas
+[2020-11-07 20:59:40.454] [info] après init db
+[2020-11-07 20:59:50.091] [info] itemocrclick
+[2020-11-07 20:59:50.093] [info] itemocrclick 2
+[2020-11-07 21:00:07.041] [error] error occured in ocr click ReferenceError: arg is not defined
+    at _callee5$ (http://localhost:8080/@/assets/js/app.js:1373:41)
+    at tryCatch (http://localhost:8080/@/assets/js/chunk-vendors.js:19397:40)
+    at Generator.invoke [as _invoke] (http://localhost:8080/@/assets/js/chunk-vendors.js:19626:22)
+    at Generator.prototype.(anonymous function) [as next] (http://localhost:8080/@/assets/js/chunk-vendors.js:19449:21)
+    at asyncGeneratorStep (http://localhost:8080/@/assets/js/chunk-vendors.js:98:24)
+    at _next (http://localhost:8080/@/assets/js/chunk-vendors.js:120:9)
+[2020-11-07 21:00:07.042] [info] itemocrclick 11
+[2020-11-07 21:00:54.907] [info] avant init db
+[2020-11-07 21:00:54.909] [info] dirname is src\features
+[2020-11-07 21:00:54.910] [info] homedir is C:\Users\thomas
+[2020-11-07 21:00:54.912] [info] après init db
+[2020-11-07 21:01:01.045] [info] avant init db
+[2020-11-07 21:01:01.053] [info] dirname is src\features
+[2020-11-07 21:01:01.054] [info] homedir is C:\Users\thomas
+[2020-11-07 21:01:01.055] [info] après init db
+[2020-11-07 21:01:08.618] [info] itemocrclick
+[2020-11-07 21:01:08.620] [info] itemocrclick 2
+[2020-11-07 21:01:25.049] [info] itemocrclick 11
+[2020-11-07 21:01:48.736] [info] avant init db
+[2020-11-07 21:01:48.737] [info] dirname is src\features
+[2020-11-07 21:01:48.739] [info] homedir is C:\Users\thomas
+[2020-11-07 21:01:48.742] [info] après init db
+[2020-11-07 21:58:33.472] [info] avant init db
+[2020-11-07 21:58:33.480] [info] dirname is src\features
+[2020-11-07 21:58:33.482] [info] homedir is C:\Users\thomas
+[2020-11-07 21:58:33.482] [info] après init db
+[2020-11-07 22:05:03.741] [info] itemocrclick
+[2020-11-07 22:05:03.742] [info] itemocrclick 2
+[2020-11-07 22:05:52.497] [info] itemocrclick
+[2020-11-07 22:05:52.498] [info] itemocrclick 2
+[2020-11-07 22:10:39.942] [info] avant init db
+[2020-11-07 22:10:39.951] [info] dirname is src\features
+[2020-11-07 22:10:39.952] [info] homedir is C:\Users\thomas
+[2020-11-07 22:10:39.954] [info] après init db
+[2020-11-07 22:10:46.084] [info] itemocrclick
+[2020-11-07 22:10:46.085] [info] itemocrclick 2
+[2020-11-07 22:14:01.971] [info] avant init db
+[2020-11-07 22:14:01.984] [info] dirname is src\features
+[2020-11-07 22:14:01.985] [info] homedir is C:\Users\thomas
+[2020-11-07 22:14:01.986] [info] après init db
+[2020-11-07 22:14:31.608] [info] avant init db
+[2020-11-07 22:14:31.609] [info] dirname is src\features
+[2020-11-07 22:14:31.610] [info] homedir is C:\Users\thomas
+[2020-11-07 22:14:31.611] [info] après init db
+[2020-11-07 22:14:44.873] [info] avant init db
+[2020-11-07 22:14:44.881] [info] dirname is src\features
+[2020-11-07 22:14:44.881] [info] homedir is C:\Users\thomas
+[2020-11-07 22:14:44.882] [info] après init db
+[2020-11-07 22:14:56.580] [info] itemocrclick
+[2020-11-07 22:14:56.581] [info] itemocrclick 2
+[2020-11-07 22:15:03.527] [info] itemocrclick 11
+[2020-11-07 22:15:22.019] [info] itemocrclick
+[2020-11-07 22:15:22.020] [info] itemocrclick 2
+[2020-11-07 22:15:42.888] [info] itemocrclick 11
+[2020-11-08 00:48:33.279] [info] avant init db
+[2020-11-08 00:48:33.287] [info] dirname is src\features
+[2020-11-08 00:48:33.287] [info] homedir is C:\Users\thomas
+[2020-11-08 00:48:33.289] [info] après init db
+[2020-11-08 00:48:53.804] [info] itemocrclick
+[2020-11-08 00:48:53.806] [info] itemocrclick 2
+[2020-11-08 00:50:31.086] [info] itemocrclick 11
+[2020-12-20 22:18:53.428] [info] avant init db
+[2020-12-20 22:18:53.435] [info] dirname is src\features
+[2020-12-20 22:18:53.437] [info] homedir is C:\Users\thomas
+[2020-12-20 22:18:53.439] [info] après init db
